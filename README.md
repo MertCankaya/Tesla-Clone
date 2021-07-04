@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### project link -->  https://tesla-clone-f939c.web.app/
 
+## Topics
+
+Redux
+Styled Components
 
 
 
