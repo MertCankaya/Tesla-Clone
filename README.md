@@ -4,8 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Topics
 
-Redux
-Styled Components
+*Redux
+*Styled Components
 
 
 
